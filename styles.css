@@ -27,13 +27,13 @@ main {
 }
 aside {
  padding: 30px;
-  background-color: #4040a1;
-  color: white;
+  background-color: #d5f4e6;
+  color: black;
 }
 article {
   padding: 30px;
-  background-color: #d5f4e6;
-  color: black;
+  background-color: #4040a1;
+  color: white;
 }
 footer {
  padding: 30px;
